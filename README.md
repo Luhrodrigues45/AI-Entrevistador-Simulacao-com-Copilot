@@ -18,11 +18,15 @@
 # 📌 Contexto: <br>
 - A [Dio](https://web.dio.me/play?section_type=bootcamp) propôs um desafio inovador: Criar uma simulação de entrevista técnica utilizando inteligência artificial. O objetivo é estruturar uma conversa que reproduza o processo de um entrevistador especializado em tecnologia.
 
+<br>
+
 # 🎯 Objetivo do Desafio: 
 - Desenvolver uma entrevista estruturada e interativa.
 - Fazer uma pergunta por vez, garantindo clareza e foco.
 - Coletar informações sobre título da vaga, propósito, senioridade, competências técnicas e comportamentais.
 - Ao final, gerar um resumo objetivo da vaga, sem criar uma job description completa.
+
+<br>
 
 # 🛠️ Processo da Simulação:
 - Pergunta inicial: Título da vaga e propósito principal.
@@ -31,12 +35,15 @@
 - Comportamentos valorizados: Atitudes e soft skills mais importantes.
 - Resumo final: Consolidação das respostas em uma visão clara da vaga.
 
-#💡Exemplo da Entrevista Criada:
+<br>
+
+# 💡Exemplo da Entrevista Criada:
 - Título da vaga: Defesa Cibernética – Gestão de Vulnerabilidades (Junior)
 - Propósito: Identificação e mitigação de vulnerabilidades para garantir segurança dos sistemas.
 - Competências técnicas: ISO 27001, ITIL, Kali Linux, gestão de riscos, políticas de backup e recuperação.
 - Comportamentos valorizados: atenção, cuidado, agilidade e organização.
 
+<br>
 
 # 💻 📝 Simulação: Prompt
 ➡️ 1.1 Prompt adaptado ao curso de DCiber:
@@ -103,6 +110,8 @@ Propósito principal: Atuar na identificação, monitoramento e mitigação de v
 
 # 💬 Resumo da vaga:
 O profissional de Defesa Cibernética Jr, com foco em Gestão de Vulnerabilidades, será responsável por aplicar boas práticas de segurança, conhecer e utilizar frameworks como ITIL e ISO 27001, além de atuar tanto na segurança ofensiva quanto defensiva. Entre suas atribuições estão o monitoramento de logs, execução de testes internos de invasão, implementação de configurações robustas, gestão de riscos e definição de estratégias de recuperação de dados em casos de desastres. Também terá papel educativo, orientando colaboradores sobre boas práticas para evitar incidentes como ataques de ransomware. As atitudes mais valorizadas incluem atenção, cuidado, agilidade no monitoramento e resposta a intrusões, além de organização para lidar com múltiplos eventos e riscos de forma eficiente.
+
+<br>
 
 # 🚀 Conclusão:
 - Esse desafio demonstra como a IA pode ser aplicada para simular entrevistas técnicas, ajudando empresas e candidatos a estruturarem melhor suas vagas e processos seletivos. Além disso, reforça a importância da defesa cibernética como uma área estratégica e de alta demanda no mercado.
